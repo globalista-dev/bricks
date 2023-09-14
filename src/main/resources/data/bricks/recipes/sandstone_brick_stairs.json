@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+	"###"
+  ],
+  "key": {
+    "#": {
+      "item": "bricks:sandstone_bricks"
+    }
+  },
+  "result": {
+    "item": "bricks:sandstone_brick_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "bricks:sandstone_bricks",
+    "bricks:sandstone_brick_slab",
+    "bricks:sandstone_brick_stairs"
+  ]
+}
